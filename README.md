@@ -1,30 +1,30 @@
 ## :question: About
-My solutions to [Swift Coding Challenges](https://www.hackingwithswift.com/store/swift-coding-challenges) by Hacking With Swift
+[Swift Coding Challenges](https://www.hackingwithswift.com/store/swift-coding-challenges) by Hacking With Swift
 
-## :blue_book: Challenges Checklist
+## :blue_book: Checklist
 ### Strings
 - [X] Challenge 1: Are the letters unique?
 - [X] Challenge 2: Is a string a palindrome?
-- [ ] Challenge 3: Do two strings contain the same characters?
-- [ ] Challenge 4: Does one string contain another?
-- [ ] Challenge 5: Count the characters
-- [ ] Challenge 6: Remove duplicate letters from a string
-- [ ] Challenge 7: Condense whitespace
-- [ ] Challenge 8: String is rotated
-- [ ] Challenge 9: Find pangrams
-- [ ] Challenge 10: Vowels and consonants
-- [ ] Challenge 11: Three different letters
-- [ ] Challenge 12: Find longest prefix
-- [ ] Challenge 13: Run-length encoding
+- [X] Challenge 3: Do two strings contain the same characters?
+- [X] Challenge 4: Does one string contain another?
+- [X] Challenge 5: Count the characters
+- [X] Challenge 6: Remove duplicate letters from a string
+- [X] Challenge 7: Condense whitespace
+- [X] Challenge 8: String is rotated
+- [X] Challenge 9: Find pangrams
+- [X] Challenge 10: Vowels and consonants
+- [X] Challenge 11: Three different letters
+- [X] Challenge 12: Find longest prefix
+- [X] Challenge 13: Run-length encoding
 - [ ] Challenge 14: String permutations
-- [ ] Challenge 15: Reverse the words in a string
+- [X] Challenge 15: Reverse the words in a string
 
 ### Numbers 
-- [ ] Challenge 16: Fizz Buzz
-- [ ] Challenge 17: Generate a random number in a range
-- [ ] Challenge 18: Recreate the pow() function
-- [ ] Challenge 19: Swap two numbers
-- [ ] Challenge 20: Number is prime
+- [X] Challenge 16: Fizz Buzz
+- [X] Challenge 17: Generate a random number in a range
+- [X] Challenge 18: Recreate the pow() function
+- [X] Challenge 19: Swap two numbers
+- [X] Challenge 20: Number is prime
 - [ ] Challenge 21: Counting binary ones
 - [ ] Challenge 22: Binary reverse
 - [ ] Challenge 23: Integer disguised as string

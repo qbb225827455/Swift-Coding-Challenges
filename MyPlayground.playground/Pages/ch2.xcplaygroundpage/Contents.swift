@@ -10,5 +10,4 @@ func ch2(input: String) -> Bool {
     return reverseString == lowercaseString
 }
 
-
 //: [Next](@next)
